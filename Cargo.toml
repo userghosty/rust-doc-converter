@@ -1,0 +1,8 @@
+[package]
+name = "rust-doc-converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dxpdf = "0.8"
+pdf_oxide = "0.3.78"
